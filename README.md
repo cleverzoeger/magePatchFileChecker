@@ -12,6 +12,7 @@ php magePatchFileChecker.php ../PATCH-SUP..sh
 - cli parameter cleanup
 - sourcecode comments
 - tool renaming
+
 0.9.0
 - Initial release
 - check all files if there are duplicates
