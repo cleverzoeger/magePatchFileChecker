@@ -5,7 +5,7 @@
 Because many developer Duplicating files from core, base and co, some (security) patches don't affecting this files and security holes are not realy fixed. therefore this tool checks local and community files to find more affected files.
 # Usage
 ```bash
-magePatchFileChecker.php ../PATCH-SUP..sh
+php magePatchFileChecker.php ../PATCH-SUP..sh
 ```
 # Changelog
 1.0.0
