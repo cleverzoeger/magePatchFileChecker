@@ -3,8 +3,11 @@
 
 # Introduction
 Because many developer Duplicating files from core, base and co, some (security) patches don't affecting this files and security holes are not realy fixed. therefore this tool checks local and community files to find more affected files.
+# Installation
+Copy this php file directly into the magento shell directory.
 # Usage
 ```bash
+cd shell
 php magePatchFileChecker.php ../PATCH-SUP..sh
 ```
 # Changelog
