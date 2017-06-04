@@ -8,9 +8,13 @@ Copy this php file directly into the magento shell directory.
 # Usage
 ```bash
 cd shell
-php magePatchFileChecker.php ../PATCH-SUP..sh
+php magePatchFileChecker.php ../PATCH-SUP..sh /var/www/magento1.x_docroot/
 ```
 # Changelog
+1.1.0
+- code cleanup
+- magento doc root parameter
+
 1.0.0
 - cli parameter cleanup
 - sourcecode comments
